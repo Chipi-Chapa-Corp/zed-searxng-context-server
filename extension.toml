@@ -1,0 +1,10 @@
+id = "searxng-context-server"
+name = "SearXNG Context Server"
+description = "Model Context Server for SearXNG"
+version = "0.0.3"
+schema_version = 1
+authors = ["Artem Prokop <chipi.chapa.corporation@gmail.com>"]
+repository = "https://github.com/Chipi-Chapa-Corp/zed-searxng-context-server"
+
+[context_servers.searxng-context-server]
+name = "SearXNG Context Server"
