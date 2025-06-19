@@ -13,7 +13,7 @@ To use the extension, you will need to point the context server at a SearXNG ins
   "context_servers": {
     "searxng-context-server": {
       "settings": {
-        "api_url": "http://127.0.0.1:8080"
+        "api_url": "http://127.0.0.1:8088"
       }
     }
   }

@@ -7,7 +7,7 @@ use zed_extension_api::{
 };
 
 const PACKAGE_NAME: &str = "@chipi-chapa-corp/searxng-context-server";
-const SERVER_PATH: &str = "node_modules/@chipi-chapa-corp/searxng-context-server/index.js";
+const SERVER_PATH: &str = "node_modules/@chipi-chapa-corp/searxng-context-server/dist/index.js";
 
 struct SearXNGModelContextExtension;
 
